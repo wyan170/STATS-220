@@ -1,3 +1,6 @@
 # STATS-220
-![](https://i.guim.co.uk/img/media/26392d05302e02f7bf4eb143bb84c8097d09144b/446_167_3683_2210/master/3683.jpg?width=620&quality=85&dpr=1&s=none)
-`Cat`
+## project1
+**A meme emoji**  
+*A meme emoji*  
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb9KQ3d1_XzIVl1Xmu1cZA0UEcILQkLnsb2uuRl6QS&s)  
+[This is the link for my github main page](https://github.com/wyan170/STATS-220)
